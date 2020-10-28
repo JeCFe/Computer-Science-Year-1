@@ -1,0 +1,6 @@
+﻿  Coursework.cpp
+E:\GarageCourseWork\Coursework.cpp(605,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\GarageCourseWork\Coursework.cpp(996,18): warning C4018: '>': signed/unsigned mismatch
+E:\GarageCourseWork\Coursework.cpp(1213,18): warning C4018: '>': signed/unsigned mismatch
+E:\GarageCourseWork\Coursework.cpp(1276,22): warning C4018: '>': signed/unsigned mismatch
+  GarageCourseWork.vcxproj -> E:\GarageCourseWork\Debug\GarageCourseWork.exe
